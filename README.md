@@ -1,54 +1,70 @@
-<!-- Clean, simple, and colorful profile README -->
-<!-- Replace the placeholders noted with ALL CAPS -->
+<!-- =========================================================
+  Clean + Colorful Profile README (Lizbeth)
+  Palette used in stats cards (tweak if you want):
+    Purple   #8B5CF6   • Magenta  #D946EF   • Pink   #EC4899   • Blue  #38BDF8
+    BG dark  #0D1117   • Text     #E6E6F0   • Border #2B2D42
+  ========================================================= -->
 
-# Hey, it's Lizbeth 👋
+<!-- Centered main heading -->
+<h1 align="center">Hey, It’s Lizbeth! 👋</h1> <!-- 🔁 REPLACE HERE -->
 
-I turn **scientific data** into clear insights and **community impact**.  
-I love exploring microbiological and environmental datasets, then transforming them into visuals and narratives that **inform, include, and inspire**.
-
-- 🔬 Microbiology & environmental/public health data  
-- 📊 Data wrangling, visualization, interpretation (R/tidyverse, ggplot2, Excel, Prism)  
-- 🤝 Community-focused work: mentorship & representation in research spaces
-
----
-
-## ✨ What I’m about
-- Asking better questions, then backing them with data  
-- Building visuals that make science **accessible** and **actionable**  
-- Collaborating thoughtfully and learning out loud
+<p align="center">
+  I turn <b>scientific data</b> into clear insights and <b>community impact</b>.
+</p>
 
 ---
 
-## 🛠️ Tools I use
-<!-- Subtle, readable badges with a purple/pink/blue palette on dark label -->
-<!-- You can remove any you don't want -->
-https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white&labelColor=0b0b12&color=6c8dff
-https://img.shields.io/badge/tidyverse-ffffff?style=flat&logo=r&logoColor=d26cff&labelColor=0b0b12&color=ff77c7
-https://img.shields.io/badge/ggplot2-ffffff?style=flat&logo=r&logoColor=6c8dff&labelColor=0b0b12&color=b266ff
-https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white&labelColor=0b0b12&color=ff7ab8
-https://img.shields.io/badge/GraphPad_Prism-13a0f6?style=flat&labelColor=0b0b12&color=9b5cff
+### ✨ About
+Curious, data‑minded, and mission‑driven. I work with **microbiological** and **environmental** datasets and enjoy translating patterns into visuals and stories people can use.  
+Interests include **microbial survival**, **air quality + health**, and **equity in STEM** through mentorship and representation.
+
+- 🔬 Research & analysis: experimental data → clear, defendable conclusions  
+- 📊 Skills: **R (tidyverse, ggplot2)**, **Excel (pivot tables, dashboards)**,  
+- 🧠 Strengths: data wrangling · visualization · interpretation · science communication  
+- 🌱 Community: support for Latino researchers (programming, mentoring, access)  
+- 🌐 Bilingual: English / Spanish
 
 ---
 
-## 🌟 Projects & interests
-- 🧬 **Microbial insights** — pattern‑finding in bacterial survival data  
-- 🌆 **Air quality & health** — mapping AQ trends and equity across neighborhoods  
-- 🗣️ **Science communication** — data stories that people *want* to read
+### 🧰 What I like building
+- Insightful notebooks and reproducible scripts in **R**  
+- Visuals that make complex results **approachable**  
+- Small utilities that reduce friction and amplify impact
+
+---
+
+### 📂 Selected interests & themes
+- 🧬 **Microbial insights** — exploring survival patterns and responses  
+- 🌆 **Environmental health** — mapping air‑quality signals across neighborhoods  
+- 🗣️ **Data stories** — visuals + narrative that invite understanding and action
 
 ---
 
 ## 📊 Snapshot
-<!-- Replace YOUR_USERNAME below. If you prefer a super-minimal look, remove this entire block. -->
-<p>
-  https://github-readme-stats.vercel.app/api?username=lmaci0079&show_icons=true&title_color=d26cff&icon_color=6c8dff&text_color=eceff4&bg_color=0b0b12&border_color=2b2d42
+<!-- Use your actual GitHub username in all URLs below -->
+<p align="center">
+  <!-- GitHub Stats -->
+  https://github-readme-stats.vercel.app/api?username=lmaci0079&show_icons=true&title_color=8B5CF6&icon_color=EC4899&text_color=E6E6F0&bg_color=0D1117&border_color=2B2D42
 </p>
-<p>
-  https://github-readme-stats.vercel.app/api/top-langs/?username=lmaci0079E&layout=compact&title_color=d26cff&text_color=eceff4&bg_color=0b0b12&border_color=2b2d42
+
+<p align="center">
+  <!-- Top Languages -->
+  https://github-readme-stats.vercel.app/api/top-langs/?username=lmaci0079&layout=compact&title_color=8B5CF6&text_color=E6E6F0&bg_color=0D1117&border_color=2B2D42
 </p>
+
+<!-- Tip: The stats cards support many color/theme parameters. See the project's docs. -->
+
+---
+
+## 🗺️ How I work
+- Ask better questions → define the signal we need from the data  
+- Build clear visuals → focus attention, reduce noise  
+- Communicate plainly → the “so what?” is never buried
 
 ---
 
 ## 📫 Contact
 If you’d like to connect or collaborate, say hello here:
 
-- LinkedIn: https://www.linkedin.com/in/http://www.linkedin.com/in/maciasl007_SLUG
+- Email: mailto:lmaci0079@gmail.com <!-- 🔁 REPLACE HERE -->
+- LinkedIn: https://www.linkedin.com/in/http://www.linkedin.com/in/maciasl007_SLUG <!-- 🔁 REPLACE HERE -->
