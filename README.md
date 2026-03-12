@@ -1,10 +1,15 @@
-<!-- Banner -->
+<!-- =========================================================
+   🌈 Lizbeth — Neon Purple & Pink GitHub Profile README
+   NOTE: Replace fields marked with  🔁 REPLACE HERE
+   ========================================================= -->
+
+<!-- Banner (from /assets). No edits needed if you kept the same name/path. -->
 <p align="center">
-  <img src="./assets/banner_neon.svg" alt="Lizbeth — Turning scientific data into insight and community into opportunity" width="100%" />
+  <img src="./assets/banner_neon.svg" alt="Lizbeth Neon Banner" width="100%" />
 </p>
 
-<!-- Title (fallback if image ever fails) -->
-<h1 align="center">Lizbeth</h1>
+<!-- Title + Tagline (fallback text in case the image fails) -->
+<h1 align="center">Hi, It's Lizbeth!</h1>
 <h3 align="center">
   <span style="background: linear-gradient(90deg, #ff4dff, #b266ff, #ff66cc);
                -webkit-background-clip: text; color: transparent;">
@@ -13,20 +18,33 @@
 </h3>
 
 <!-- Contact / Social -->
+<!-- 🔁 REPLACE HERE: YOUR_EMAIL, YOUR_LINKEDIN, YOUR_USERNAME -->
 <p align="center">
-  <a href="mailto:lmaci0079@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lmaci0079@gmail.com-ff66cc?style=flat-square&labelColor=0d0d0d" alt="Email Badge" />
+  <!-- Email -->
+  <a href="mailto:lmaci0079@gmail.com"><!-- 🔁 REPLACE HERE -->
+    <img src="https://img.shields.io/badge/Email-lmaci0079@gmail.com-ff66cc?style=flat-square&labelColor=0d0d0d" 
+         alt="Email Badge" />
+         <!-- 🔁 REPLACE HERE: change YOUR_EMAIL in the badge text too -->
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/maciasl007/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-9b5cff?style=flat-square&logo=linkedin&logoColor=ffffff&labelColor=0d0d0d" alt="LinkedIn Badge" />
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/http://www.linkedin.com/in/maciasl007" target="_blank"><!-- 🔁 REPLACE HERE -->
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-9b5cff?style=flat-square&logo=linkedin&logoColor=ffffff&labelColor=0d0d0d" 
+         alt="LinkedIn Badge" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=lmaci0079&color=ff4dff&label=views&style=flat-square" alt="Profile Views" />
+
+  <!-- Optional: GitHub profile link (useful if you also keep a separate landing repo) -->
+  <a href="https://github.com/lmaci0079" target="_blank"><!-- 🔁 REPLACE HERE -->
+    <img src="https://img.shields.io/badge/GitHub-Profile-ff4dff?style=flat-square&logo=github&logoColor=ffffff&labelColor=0d0d0d" 
+         alt="GitHub Badge" />
+  </a>
 </p>
 
+<!-- Divider -->
 <p align="center">
-  <img src="./assets/divider_neon.svg" alt="divider" />
+  <img src="./assets/divider_neon.svg" alt="Neon Divider" />
 </p>
 
 ### 🧪 About Me
@@ -38,8 +56,9 @@ I care deeply about **community growth** — supporting Latino STEM researchers 
 
 ✨ I’m here to create work that’s thoughtful, data-informed, and driven by purpose.
 
+<!-- Animated divider (if it doesn't animate for you, keep the static divider above) -->
 <p align="center">
-  <img src="./assets/divider_neon_pulse.svg" alt="animated divider" />
+  <img src="./assets/divider_neon_pulse.svg" alt="Neon Animated Divider" />
 </p>
 
 ## 🏅 Certifications
@@ -50,15 +69,15 @@ I care deeply about **community growth** — supporting Latino STEM researchers 
 </p>
 
 <p align="center">
-  <img src="./assets/divider_neon.svg" alt="divider" />
+  <img src="./assets/divider_neon.svg" alt="Neon Divider" />
 </p>
 
 ## 🎨 Tools & Interests
-**Data & Analysis:** R (tidyverse, dplyr, tidyr, ggplot2), Excel (Pivot Tables, Dashboards)  
+**Data & Analysis:** R (tidyverse, dplyr, tidyr, ggplot2), Excel (Pivot Tables, Dashboards), GraphPad Prism  
 **Focus Areas:** Microbiology • Environmental/Public Health Data • Exploratory Data Analysis • Science Communication
 
 <p align="center">
-  <img src="./assets/divider_neon.svg" alt="divider" />
+  <img src="./assets/divider_neon.svg" alt="Neon Divider" />
 </p>
 
 ## 🌟 Projects & Highlights
@@ -71,34 +90,29 @@ I care deeply about **community growth** — supporting Latino STEM researchers 
 **Next up:** more open, reproducible notebooks and visual narratives.
 
 <p align="center">
-  <img src="./assets/divider_neon_pulse.svg" alt="animated divider" />
+  <img src="./assets/divider_neon_pulse.svg" alt="Neon Animated Divider" />
 </p>
 
 ## 📊 Stats (Auto‑Updating)
+<!-- 🔁 REPLACE HERE: YOUR_USERNAME (in all three URLs below) -->
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=lmaci0079&show_icons=true&hide_border=false&title_color=ff4dff&icon_color=ff66cc&text_color=ffffff&bg_color=0d0d0d&border_color=9b5cff"
-    alt="GitHub Stats"
-    height="160"
-  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=lmaci0079&show_icons=true&hide_border=false&title_color=ff4dff&icon_color=ff66cc&text_color=ffffff&bg_color=0d0d0d&border_color=9b5cff" 
+    alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmaci0079&layout=compact&title_color=ff4dff&text_color=ffffff&bg_color=0d0d0d&border_color=9b5cff"
-    alt="Top Languages"
-    height="160"
-  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmaci0079&layout=compact&title_color=ff4dff&text_color=ffffff&bg_color=0d0d0d&border_color=9b5cff" 
+    alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=lmaci0079&theme=highcontrast&ring=ff4dff&fire=ff66cc&currStreakLabel=ff66cc&background=0d0d0d&border=9b5cff"
-    alt="GitHub Streak"
-    height="180"
-  />
+  <img 
+    src="https://streak-stats.demolab.com?user=lmaci0079&theme=highcontrast&ring=ff4dff&fire=ff66cc&currStreakLabel=ff66cc&background=0d0d0d&border=9b5cff" 
+    alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="./assets/divider_neon.svg" alt="divider" />
+  <img src="./assets/divider_neon.svg" alt="Neon Divider" />
 </p>
 
 ## 🗣️ Languages
@@ -106,12 +120,13 @@ I care deeply about **community growth** — supporting Latino STEM researchers 
 - Spanish
 
 <p align="center">
-  <img src="./assets/divider_neon.svg" alt="divider" />
+  <img src="./assets/divider_neon.svg" alt="Neon Divider" />
 </p>
 
 ## 📫 Connect
-- 💌 **Email:** <a href="mailto:lmaci0079@gmail.com">YOUR_EMAIL</a>  
-- 🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/maciasl007/" target="_blank">linkedin.com/in/YOUR_LINKEDIN</a>
+<!-- 🔁 REPLACE HERE: YOUR_EMAIL, YOUR_LINKEDIN -->
+- 💌 **Email:** <a href="mailto:lmaci0079@gmail.com">lmaci0079@gmail.com</a>  
+- 🔗 **LinkedIn:** <a href="https://linkedin.com/in/http://www.linkedin.com/in/maciasl007" target="_blank">linkedin.com/in/http://www.linkedin.com/in/maciasl007</a>
 
 <br/>
 
