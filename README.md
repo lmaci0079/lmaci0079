@@ -4,7 +4,7 @@
 </p>
 
 <!-- Title (fallback if image ever fails) -->
-<h1 align="center"> Hi, It's Lizbeth!</h1>
+<h1 align="center">Lizbeth</h1>
 <h3 align="center">
   <span style="background: linear-gradient(90deg, #ff4dff, #b266ff, #ff66cc);
                -webkit-background-clip: text; color: transparent;">
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Email-lmaci0079@gmail.com-ff66cc?style=flat-square&labelColor=0d0d0d" alt="Email Badge" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/www.linkedin.com/in/maciasl007" target="_blank">
+  <a href="https://www.linkedin.com/in/maciasl007/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-9b5cff?style=flat-square&logo=linkedin&logoColor=ffffff&labelColor=0d0d0d" alt="LinkedIn Badge" />
   </a>
   &nbsp;
@@ -111,7 +111,7 @@ I care deeply about **community growth** — supporting Latino STEM researchers 
 
 ## 📫 Connect
 - 💌 **Email:** <a href="mailto:lmaci0079@gmail.com">YOUR_EMAIL</a>  
-- 🔗 **LinkedIn:** <a href="https://linkedin.com/in/www.linkedin.com/in/maciasl007" target="_blank">linkedin.com/in/YOUR_LINKEDIN</a>
+- 🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/maciasl007/" target="_blank">linkedin.com/in/YOUR_LINKEDIN</a>
 
 <br/>
 
