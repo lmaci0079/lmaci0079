@@ -77,7 +77,7 @@ I care deeply about **community growth** — supporting Latino STEM researchers 
 ## 📊 Stats (Auto‑Updating)
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=false&title_color=ff4dff&icon_color=ff66cc&text_color=ffffff&bg_color=0d0d0d&border_color=9b5cff"
+    src="https://github-readme-stats.vercel.app/api?username=lmaci0079&show_icons=true&hide_border=false&title_color=ff4dff&icon_color=ff66cc&text_color=ffffff&bg_color=0d0d0d&border_color=9b5cff"
     alt="GitHub Stats"
     height="160"
   />
