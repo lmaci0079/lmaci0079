@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff4dff"/>
+      <stop offset="50%" stop-color="#b266ff"/>
+      <stop offset="100%" stop-color="#ff66cc"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="6.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" fill="#0d0d0d"/>
+
+  <!-- decorative gradient waves -->
+  <g opacity="0.28">
+    <path d="M0 300 Q 300 200 600 300 T 1200 300 V360 H0 Z" fill="url(#grad)"/>
+    <path d="M0 280 Q 300 160 600 280 T 1200 280 V360 H0 Z" fill="#ff4dff" opacity="0.35"/>
+    <path d="M0 320 Q 300 240 600 320 T 1200 320 V360 H0 Z" fill="#b266ff" opacity="0.25"/>
+  </g>
+
+  <!-- main title -->
+  <text x="50%" y="45%" text-anchor="middle" fill="url(#grad)" font-size="86" font-family="'Segoe UI', 'Inter', 'Helvetica', 'Arial', sans-serif" filter="url(#glow)" font-weight="800">Lizbeth</text>
+
+  <!-- tagline -->
+  <text x="50%" y="62%" text-anchor="middle" fill="#ffffff" font-size="26" font-family="'Segoe UI', 'Inter', 'Helvetica', 'Arial', sans-serif" opacity="0.92">Turning scientific data into insight and community into opportunity</text>
+</svg>
