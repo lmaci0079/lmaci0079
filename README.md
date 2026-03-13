@@ -6,7 +6,7 @@
   ========================================================= -->
 
 <!-- Centered main heading -->
-<h1 align="center">Hey, It’s Lizbeth! 👋</h1> <!-- 🔁 REPLACE HERE -->
+<h1 align="center">Hi, It’s Lizbeth! 👋</h1> <!-- 🔁 REPLACE HERE -->
 
 <p align="center">
   I turn <b>scientific data</b> into clear insights and <b>community impact</b>.
@@ -42,17 +42,7 @@ Interests include **microbial survival**, **air quality + health**, and **equity
 
 ## 📊 Snapshot
 <!-- Use your actual GitHub username in all URLs below -->
-<p align="center">
-  <!-- GitHub Stats -->
-  https://github-readme-stats.vercel.app/api?username=lmaci0079&show_icons=true&title_color=8B5CF6&icon_color=EC4899&text_color=E6E6F0&bg_color=0D1117&border_color=2B2D42
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  https://github-readme-stats.vercel.app/api/top-langs/?username=lmaci0079&layout=compact&title_color=8B5CF6&text_color=E6E6F0&bg_color=0D1117&border_color=2B2D42
-</p>
-
-<!-- Tip: The stats cards support many color/theme parameters. See the project's docs. -->
+![Lizbeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmaci0079&show_icons=true&theme=merko)
 
 ---
 
@@ -66,5 +56,5 @@ Interests include **microbial survival**, **air quality + health**, and **equity
 ## 📫 Contact
 If you’d like to connect or collaborate, say hello here:
 
-- Email: mailto:lmaci0079@gmail.com <!-- 🔁 REPLACE HERE -->
-- LinkedIn: https://www.linkedin.com/in/http://www.linkedin.com/in/maciasl007_SLUG <!-- 🔁 REPLACE HERE -->
+- Email: lmaci0079@gmail.com <!-- 🔁 REPLACE HERE -->
+- LinkedIn: https://www.linkedin.com/in/http://www.linkedin.com/in/maciasl007 <!-- 🔁 REPLACE HERE -->
