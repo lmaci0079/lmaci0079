@@ -6,7 +6,7 @@
   ========================================================= -->
 
 <!-- Centered main heading -->
-<h1 align="center">Hi, It’s Lizbeth! 👋</h1> <!-- 🔁 REPLACE HERE -->
+<h1 align="center">Hi, I'm Lizbeth! 👋</h1> <!-- 🔁 REPLACE HERE -->
 
 <p align="center">
   I turn <b>scientific data</b> into clear insights and <b>community impact</b>.
