@@ -13,46 +13,23 @@
 </p>
 
 ---
+# 💫 About Me:
+Curious, data‑minded, and mission‑driven. I work with **microbiological** and **environmental** datasets and enjoy translating patterns into visuals and stories people can use.  <br>Interests include **microbial survival**, **air quality + health**, and **equity in STEM** through mentorship and representation.<br><br>🔬 Research & analysis: experimental data → clear, defendable conclusions  <br>📊 Skills: **R (tidyverse, ggplot2)**, **Excel (pivot tables, dashboards)**,  <br>🧠 Strengths: data wrangling · visualization · interpretation · science communication  <br>🌱 Community: support for Latino researchers (programming, mentoring, access)  <br>🌐 Bilingual: English / Spanish
 
-### ✨ About
-Curious, data‑minded, and mission‑driven. I work with **microbiological** and **environmental** datasets and enjoy translating patterns into visuals and stories people can use.  
-Interests include **microbial survival**, **air quality + health**, and **equity in STEM** through mentorship and representation.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/maciasl007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lmaci0079@gmail.com) 
 
-- 🔬 Research & analysis: experimental data → clear, defendable conclusions  
-- 📊 Skills: **R (tidyverse, ggplot2)**, **Excel (pivot tables, dashboards)**,  
-- 🧠 Strengths: data wrangling · visualization · interpretation · science communication  
-- 🌱 Community: support for Latino researchers (programming, mentoring, access)  
-- 🌐 Bilingual: English / Spanish
-
----
-
-### 🧰 What I like building
-- Insightful notebooks and reproducible scripts in **R**  
-- Visuals that make complex results **approachable**  
-- Small utilities that reduce friction and amplify impact
+# 💻 Tech Stack:
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lmaci0079&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=lmaci0079&theme=omni&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lmaci0079&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=lmaci0079&icon=0&color=10)](https://visitcount.itsvg.in)
 
-### 📂 Selected interests & themes
-- 🧬 **Microbial insights** — exploring survival patterns and responses  
-- 🌆 **Environmental health** — mapping air‑quality signals across neighborhoods  
-- 🗣️ **Data stories** — visuals + narrative that invite understanding and action
-
----
-
-## 📊 Snapshot
-<!-- Use your actual GitHub username in all URLs below -->
-![Lizbeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmaci0079&show_icons=true&theme=merko)
-
----
-
-## 🗺️ How I work
-- Ask better questions → define the signal we need from the data  
-- Build clear visuals → focus attention, reduce noise  
-- Communicate plainly → the “so what?” is never buried
-
----
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 📫 Contact
 If you’d like to connect or collaborate, say hello here:
 
