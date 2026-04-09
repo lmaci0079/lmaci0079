@@ -17,8 +17,6 @@ I love asking questions at the intersection of environment, data, and people—a
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lmaci0079&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lmaci0079&icon=8&color=3)](https://visitcount.itsvg.in)
