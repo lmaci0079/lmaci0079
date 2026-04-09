@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-# Hi there, I'm Liz! 👋
+# Hi there, I'm Lizbeth! 👋
 
 ### Data Analyst | Environmental & Health Data Enthusiast
 
@@ -63,6 +63,3 @@ Curiosity, intention, and responsibility guide everything I do—whether I’m b
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=lmaci0079&icon=8&color=3" alt="Visitor Count" />
-</p>
