@@ -3,7 +3,7 @@
 <tr>
 <td align="center">
 <h1 style="color:white;">Hi there, I'm Lizbeth! 👋</h1>
-<h3 style="color:#C792EA;">Data Analyst | Environmental & Health Data Enthusiast</h3>
+<h3 style="color:#C792EA;"> Data Analyst | Environmental & Health Data Enthusiast</h3>
 </td>
 </tr>
 </table>
