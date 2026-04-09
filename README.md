@@ -1,4 +1,5 @@
-##                               Hi there, I'm Lizbeth👋
+## <p align="center"> Hi there, I'm Lizbeth👋</p>
+
 
 # 💫 About Me:
 I love asking questions at the intersection of environment, data, and people—and then chasing the answers with purpose.<br><br>My work focuses on turning complex datasets into clear, actionable insights. Through data analysis and visualization, I uncover patterns that drive understanding and real-world impact. I’m particularly passionate about air quality, human health, and using data to promote equity in STEM and beyond.<br><br>Curiosity, intention, and responsibility guide everything I do—whether I’m building analyses, telling stories with data, or creating space for others through mentorship and representation.<br><br>Always learning, always building, always curious.<br><br>🔬 Research & Analysis: experimental data → clear, defendable conclusions<br>📊 Skills: R (tidyverse, ggplot2), Excel (pivot tables, dashboards)<br>🧠 Strengths: data wrangling · visualization · interpretation · science communication<br>🌱 Community: supporting Latino researchers through programming, mentoring, and access<br>🌐 Bilingual: English / Spanish
